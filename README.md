@@ -1,7 +1,7 @@
-# Milrato-Website
+# 81CuongVn-Website
 > Third Official Website - Current Version
 > CSS by bootstrap & frame by bootstrapmade
-> Coded by: `Tomato#6966` via [81CuongVn Development](https://milrato.dev) | [Discord Server](https://discord.gg/cuongdola)
+> Coded by: `John Week  ♌#8686` via [81CuongVn Development](https://milrato.dev) | [Discord Server](https://discord.gg/cuongdola)
 
 # You want to use it?
 
@@ -11,4 +11,4 @@
 
 https://user-images.githubusercontent.com/68145571/141693022-e4007ebb-6941-44da-afa5-d06112dcc793.mp4
 
-> **© Milrato-Development 2018-2021**
+> **© -Development 2021-2022**
