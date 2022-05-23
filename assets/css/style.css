@@ -1875,7 +1875,7 @@ button[type="red"]:hover {
 
 #footer .footer-top .footer-info {
     margin-bottom: 15px;
-    background: #010246;
+    background: #d85ba0;
     color: #fff;
     border-radius: 10px;
     text-align: center;
@@ -1900,7 +1900,7 @@ button[type="red"]:hover {
 #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    color: #fff;
+    color: rgb(5, 5, 5);
     line-height: 1;
     padding: 8px 0;
     margin-right: 4px;
@@ -1912,7 +1912,7 @@ button[type="red"]:hover {
 }
 
 #footer .footer-top .social-links a:hover {
-    background: #5663F7;
+    background: #8e92c5;
     color: #fff;
     text-decoration: none;
 }
