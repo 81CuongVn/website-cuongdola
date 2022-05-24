@@ -122,7 +122,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #5663F7;
+    background: #e0419e79;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -136,7 +136,7 @@ h6 {
 }
 
 .back-to-top:hover {
-    background: #2be4a2;
+    background: #9ee44f;
     color: #fff;
 }
 
@@ -174,7 +174,7 @@ h6 {
 }
 
 #header.header-scrolled {
-    background: #d36337;
+    background: #e2a448;
     opacity: 0.85;
     height: 60px;
 }
@@ -189,7 +189,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-    color: #fff;
+    color: rgb(134, 34, 34);
     text-decoration: none;
 }
 
@@ -345,7 +345,7 @@ h6 {
 */
 
 .mobile-nav-toggle {
-    color: #fff;
+    color: rgb(204, 50, 196);
     font-size: 28px;
     cursor: pointer;
     display: none;
@@ -475,16 +475,16 @@ h6 {
     font-size: 48px;
     font-weight: 700;
     line-height: 56px;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgb(124, 28, 28);
 }
 
 #hero h1 span {
-    color: #fff;
-    border-bottom: 4px solid #5663F7;
+    color: rgb(124, 28, 28);
+    border-bottom: 4px solid #4d8bdb;
 }
 
 #hero h2 {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(114, 31, 134, 0.8);
     margin-bottom: 40px;
     font-size: 24px;
 }
@@ -498,8 +498,8 @@ h6 {
     padding: 10px 30px;
     border-radius: 50px;
     transition: 0.5s;
-    color: #fff;
-    background: #5663F7;
+    color: rgb(255, 255, 255);
+    background: #ddbd2d;
 }
 
 #hero .btn-get-started:hover {
